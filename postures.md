@@ -1,6 +1,7 @@
-##Favorite positions 
+Favorite positions 
 -headstand 
 -shoulder stand 
-##Least favorite positions 
+
+Least favorite positions 
 -locust 
 -camel
